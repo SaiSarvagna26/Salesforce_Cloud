@@ -1,5 +1,7 @@
 public with sharing class AccountHandler {
     public static void task() {
-        String a='sai';
+       Account a = New Account();
+       a.Is_Required__c=true;
+        insert a;
     }
 }
