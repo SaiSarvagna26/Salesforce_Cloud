@@ -1,9 +1,8 @@
 public with sharing class AccountHandler {
     public static void task() {
-
-        String a='Sai Sadvik';
         Account acc =new Account();
-        acc.Phone='5555';
+        acc.Phone='9206123456';
+        acc.Name='Sai Sarvagna Sadvik ';
       
 
     }
