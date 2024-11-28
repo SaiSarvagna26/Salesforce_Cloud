@@ -1,6 +1,5 @@
 public with sharing class ContactHandler {
-    public ContactHandler() {
-        Contact c = New Contact();
-
+    public static void Con(){
+        
     }
 }
